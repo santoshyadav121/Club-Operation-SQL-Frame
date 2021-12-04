@@ -10,4 +10,4 @@ Q7	Output the facility id that has the highest number of slots booked. Ensure th
 Q8	Produce a list of members, along with the number of hours they've booked in facilities. Rank them by the number of hours producing output of first name, surname, hours, rank. Sort by rank, surname, and first name.									
 Q9	Produce a list of the top three revenue generating facilities (including ties). Output facility name and rank, sorted by rank and facility name.									
 Q10	For each day in August 2012, calculate a rolling average of total revenue over the previous 15 days. Output should contain date and revenue columns, sorted by the date. Remember to account for the possibility of a day having zero revenue.									
-![image](https://user-images.githubusercontent.com/77436660/144702472-87e2b2c8-fa6c-4953-9c43-807098f2b25b.png)
+
